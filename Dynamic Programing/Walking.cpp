@@ -3,7 +3,6 @@ using namespace std;
 
 int main(){
     int x,y;
-
     cin >> x >> y;
 
     int mine[x][y],mine2[x+1][y+1];

@@ -1,3 +1,12 @@
+/*
+============================
+Task : Max Sequence
+Author : TEEJUTA SRIWARANON
+LANGUAGE : C++
+Trick : Dynamic Programming
+============================
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

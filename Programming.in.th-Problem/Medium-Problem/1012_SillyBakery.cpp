@@ -1,3 +1,12 @@
+/*
+============================
+Task : Silly Bakery
+Author : TEEJUTA SRIWARANON
+LANGUAGE : C++
+Trick : -
+============================
+*/
+
 #include <bits/stdc++.h> 
 
 using namespace std;
